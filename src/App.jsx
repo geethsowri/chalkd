@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { RefreshCw, Github, Sun, Moon } from 'lucide-react';
+import { RefreshCw, Sun, Moon } from 'lucide-react';
 import ProfileCard from './components/ProfileCard';
 import ActivityHeatmap from './components/ActivityHeatmap';
 import { fetchAllStats } from './utils/api';

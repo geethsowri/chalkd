@@ -1,4 +1,3 @@
-import React from 'react';
 import { ExternalLink, Loader2 } from 'lucide-react';
 
 const ProfileCard = ({ platform, logo, stats, profileUrl, color, loading }) => {
@@ -7,7 +6,7 @@ const ProfileCard = ({ platform, logo, stats, profileUrl, color, loading }) => {
             <div className="card-header">
                 <div className="platform-info">
                     <div className="platform-icon" style={{ background: `${color}15`, color: color }}>
-                        {React.cloneElement(logo, { size: 18 })}
+                        {logo}
                     </div>
                     <span className="platform-name">{platform}</span>
                 </div>
