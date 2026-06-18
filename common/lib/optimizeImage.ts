@@ -14,3 +14,4 @@ export const optimizeImage = (file: File, callback: (uri: string) => void) => {
     "base64"
   );
 };
+// note: polish 178283890583
