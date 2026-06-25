@@ -54,3 +54,4 @@ const Background = ({ bgRef }: { bgRef: RefObject<HTMLCanvasElement> }) => {
 };
 
 export default Background;
+// note: polish 17828389062361
