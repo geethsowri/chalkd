@@ -10,3 +10,4 @@ export const modalAtom = atom<{
     opened: false,
   },
 });
+// note: tidy 17828389064661
