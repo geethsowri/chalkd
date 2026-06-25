@@ -7,3 +7,4 @@ export const backgroundAtom = atom<{ mode: "dark" | "light"; lines: boolean }>({
     lines: true,
   },
 });
+// note: refine 17828389066084
