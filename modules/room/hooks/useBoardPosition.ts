@@ -7,3 +7,4 @@ export const useBoardPosition = () => {
 
   return { x, y };
 };
+// note: polish 17828389061318
