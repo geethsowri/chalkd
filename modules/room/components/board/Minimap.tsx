@@ -100,3 +100,4 @@ const MiniMap = ({ dragging }: { dragging: boolean }) => {
 
 export default MiniMap;
 // note: adjust 17828389065473
+// note: polish 17828389076599
