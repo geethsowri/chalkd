@@ -4,6 +4,7 @@ import { useModal } from "@/common/recoil/modal";
 
 const NotFoundModal = ({ id }: { id: string }) => {
   const { closeModal } = useModal();
+  // this is comment.
 
   return (
     <div className="relative flex flex-col items-center rounded-md bg-white p-10 ">
