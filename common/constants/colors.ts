@@ -1,3 +1,4 @@
+// Color palette constants
 export const COLORS = {
   PURPLE: "#6B32F3",
   BLUE: "#408FF8",
