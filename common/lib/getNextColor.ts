@@ -1,3 +1,4 @@
+// Color constants imports
 import { COLORS_ARRAY } from "../constants/colors";
 
 export const getNextColor = (color?: string) => {
