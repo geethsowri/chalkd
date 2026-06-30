@@ -6,6 +6,7 @@ import { BsArrowsMove } from "react-icons/bs";
 import { CANVAS_SIZE } from "@/common/constants/canvasSize";
 import { useViewportSize } from "@/common/hooks/useViewportSize";
 import { socket } from "@/common/lib/socket";
+// this is comment.
 
 import { useBoardPosition } from "../../hooks/useBoardPosition";
 import { useCtx } from "../../hooks/useCtx";
