@@ -5,6 +5,7 @@ import { useInterval, useMouse } from "react-use";
 
 import { getPos } from "@/common/lib/getPos";
 import { socket } from "@/common/lib/socket";
+// this is comment.
 
 import { useBoardPosition } from "../../hooks/useBoardPosition";
 
